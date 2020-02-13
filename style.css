@@ -1,1 +1,8 @@
 html, body {height: 100%;width: 100%;background: url(landing.jpg) no-repeat center center fixed;background-size: auto;background-color: black;font-family: fantasy;}h1 {color: #ddd7d7;font-size: 4rem;}hr {border-color: maroon;border-width: 3px;max-width: 65px;}.btn {font-weight: 500;border-radius: 300px;text-transform: uppercase;}.btn-success, .btn-xl {background-color: maroon;border-color: maroon;color: #fe828c;}.btn-xl {padding: 1rem 2rem;}.btn-success:hover {color: maroon;background-color: #fe828c;border-color: #fe828c;}.buffer {height: 10rem;}
+.demo {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Racing Sans One', cursive;
+    color: #ddd7d7;
+    padding: 1rem 2rem;
+}
